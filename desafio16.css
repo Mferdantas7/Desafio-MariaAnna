@@ -2,4 +2,14 @@ body{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(90deg,#da3333 0%,#cca8cc 100%N);
+    display: class;
+    justify-content: center;
+    align-itens: center;
+    
+    
+}
+.tela{
+    background-color:#fafafa;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb( 244,248,6);
 }
